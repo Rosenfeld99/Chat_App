@@ -6,6 +6,8 @@ This project is a feature-rich chat application designed to demonstrate various 
 
 ![Profile manage gif](https://res.cloudinary.com/djwetaeqt/image/upload/v1718239725/github_Images/chatGif.gif)
 
+[🔗 View Site](https://eli-rosenfeld-chat-app.netlify.app/)
+
 
 ## Table of Contents
 
